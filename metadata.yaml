@@ -1,0 +1,30 @@
+_repo: The-Rise-of-Cotton-Mills-in-the-South_37784
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mitchell, Broadus
+    birthdate: 1892
+    deathdate: 1988
+    gutenberg_agent_id: '39061'
+    url: http://www.gutenberg.org/2009/agents/39061
+description: ''
+gutenberg_issued: '2011-10-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37784'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HD'
+- !lcsh 'Textile workers -- Southern States'
+- !lcsh 'Cotton textile industry -- Southern States'
+- !lcsh 'Southern States -- Economic conditions'
+- !lcsh 'Cotton manufacture -- Southern States'
+- !lcsh 'Working class -- Southern States'
+title: The Rise of Cotton Mills in the South
+url: http://www.gutenberg.org/ebooks/37784
